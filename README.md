@@ -19,3 +19,15 @@
   - Accessibility
   - SEO basics
     - [Getting started for beginners](https://developers.google.com/search/docs/beginner/get-started)
+
+## CSS
+  - Learning the basics
+    - Pratice a lot
+  - Making layouts
+    - Float 
+    - Grid 
+    - Flexbox 
+    - Positioning 
+    - Display 
+    - Box model 
+  - Responsive design and Media Queries

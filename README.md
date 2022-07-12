@@ -32,3 +32,6 @@
     - Display 
     - Box model 
   - Responsive design and Media Queries
+
+## JavaScript 
+- Learn DOM manipulation

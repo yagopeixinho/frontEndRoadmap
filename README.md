@@ -34,4 +34,8 @@
   - Responsive design and Media Queries
 
 ## JavaScript 
+- Syntax and Basic Constructs
 - Learn DOM manipulation
+- Learn Fetch API / AJAX (XHR)
+- ES6+ and modular JavaScript
+- Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
